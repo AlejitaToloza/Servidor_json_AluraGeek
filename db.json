@@ -1,0 +1,88 @@
+{
+  "babies": [
+    {
+      "id": "1",
+      "titulo": "Bodies",
+      "descripcion": "Cálidos y cómodos, nuestros bodies son la prenda ideal para mantener a tu bebé abrigado y a la moda. Con materiales suaves y cierres prácticos, son perfectos para el día a día.",
+      "precio": 15,
+      "img": "./imagenes/bodie.avif"
+    },
+    {
+      "titulo": "Pijamas",
+      "descripcion": "Nuestros pijamas aseguran noches de sueño reparador. Con diseños adorables y tejidos transpirables, tu pequeño disfrutará de la máxima comodidad mientras duerme.",
+      "precio": 20,
+      "img": "./imagenes/pijama.avif",
+      "id": "2"
+    },
+    {
+      "titulo": "Camisetas de colores",
+      "descripcion": "Las camisetas divertidas y coloridas son un básico en el armario de tu bebé. Con estampados únicos y tejidos suaves, son perfectas para cualquier actividad.",
+      "precio": 20,
+      "img": "./imagenes/camisetas.avif",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "titulo": "Baberos",
+      "descripcion": "Mantén a tu bebé limpio y elegante con nuestros baberos coloridos. Diseñados para absorber derrames y manchas, son el complemento perfecto para las comidas.",
+      "precio": 10,
+      "img": "./imagenes/baberos.avif"
+    },
+    {
+      "id": "5",
+      "titulo": "Medias",
+      "descripcion": "Las medias suaves y acogedoras son esenciales para mantener los pies de tu bebé calientitos. Disponibles en varios colores y estilos, son perfectas para cualquier ocasión.",
+      "precio": 12,
+      "img": "./imagenes/medias.avif"
+    },
+    {
+      "id": "6",
+      "titulo": "Pantalones",
+      "descripcion": "Nuestros pantalones combinan estilo y comodidad. Con elásticos ajustables y tejidos duraderos, son ideales para que tu pequeño explore el mundo con libertad.",
+      "precio": 15,
+      "img": "./imagenes/pantalones.avif"
+    },
+    {
+      "id": "7",
+      "titulo": "Gorros",
+      "descripcion": "Protege a tu bebé del frío con nuestros gorros adorables. Hechos de materiales suaves y cálidos, son el accesorio ideal para completar cualquier look.",
+      "precio": 25,
+      "img": "./imagenes/gorros.avif"
+    },
+    {
+      "id": "8",
+      "titulo": "Enterizos",
+      "descripcion": "Descubre nuestros enterizos, la opción perfecta para mantener a tu bebé cómodo y estiloso. Confeccionados en suaves tejidos, ofrecen facilidad para vestir y desvestir. Tu pequeño lucirá encantador en cualquier ocasión.",
+      "precio": 40,
+      "img": "./imagenes/enterizo.jpg"
+    },
+    {
+      "id": "9",
+      "titulo": "Conjuntos",
+      "descripcion": "Nuestros conjuntos están diseñados para ofrecer la máxima comodidad y estilo. Cada conjunto incluye piezas perfectamente coordinadas que permiten a tu bebé moverse libremente mientras se ve adorable.",
+      "precio": 45,
+      "img": "./imagenes/conjunto.avif"
+    },
+    {
+      "id": "10",
+      "titulo": "Prendas en Lana",
+      "descripcion": "Envuelve a tu bebé en calidez con nuestras prendas de lana. Suaves y acogedoras, estas prendas son perfectas para mantener a tu pequeño abrigado durante los días fríos. Con diseños elegantes y funcionales.",
+      "precio": 45,
+      "img": "./imagenes/vestido_lana.avif"
+    },
+    {
+      "id": "11",
+      "titulo": "Zapatos",
+      "descripcion": "Descubre la colección de zapatos para bebés, diseñados para brindar comodidad y estilo en cada paso. Con suela antideslizante y materiales suaves.",
+      "precio": 30,
+      "img": "./imagenes/zapatos.avif"
+    },
+    {
+      "id": "12",
+      "titulo": "Pañales de algodón",
+      "descripcion": "Opta por la sostenibilidad con nuestros pañales reutilizables de algodón. Suaves, absorbentes y fáciles de limpiar, están diseñados para cuidar la piel de tu bebé mientras cuidas del planeta.",
+      "precio": 45,
+      "img": "./imagenes/panales.avif"
+    }
+  ]
+}
